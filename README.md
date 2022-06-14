@@ -48,7 +48,7 @@ Content Cell  | Content Cell
 
 
 ### Example 6
-    Finally, by including colons : within the header row, you can define text to be left-aligned, right-aligned, or center-aligned:
+Finally, by including colons : within the header row, you can define text to be left-aligned, right-aligned, or center-aligned:
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
 | col 3 is      | some wordy text | $1600 |
